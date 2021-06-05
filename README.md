@@ -1,4 +1,4 @@
-[![alt ereaml](https://github.com/devxas/airta-home/raw/master/images/media-logo.png)](https://www.devxas.com)
+[![alt ereaml](./images/media-logo.png)](https://www.devxas.com)
 # [Airta Home page](https://www.devxas.com/)
 
 ### Documents
