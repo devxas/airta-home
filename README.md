@@ -1,4 +1,5 @@
-# [Airta Home page](https://www.devxas.com/) 
+[![alt ereaml](images/media-logo.png)](https://www.devxas.com)
+# [Airta Home page](https://www.devxas.com/)
 
 ### Documents
 * Home page for Airta Platform
